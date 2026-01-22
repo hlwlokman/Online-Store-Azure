@@ -1,0 +1,16 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+
+# Azure Functions
+local.settings.json
